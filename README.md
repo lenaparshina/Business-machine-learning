@@ -32,3 +32,4 @@
 - phik
 - seaborn
 - random
+- lightgbm
